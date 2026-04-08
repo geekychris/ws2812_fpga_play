@@ -1,7 +1,7 @@
-Reading netlist file: "/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/impl/gwsynthesis/WS2812.vg"
-Parsing netlist file "/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/impl/gwsynthesis/WS2812.vg" completed
+Reading netlist file: "/Users/chris/code/claude_world/WS2812/impl/gwsynthesis/WS2812.vg"
+Parsing netlist file "/Users/chris/code/claude_world/WS2812/impl/gwsynthesis/WS2812.vg" completed
 Processing netlist completed
-Reading constraint file: "/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/src/top.cst"
+Reading constraint file: "/Users/chris/code/claude_world/WS2812/src/top.cst"
 Physical Constraint parsed completed
 Running placement......
 [10%] Placement Phase 0 completed
@@ -20,10 +20,10 @@ Bitstream generation in progress......
 Bitstream generation completed
 Running power analysis......
 [100%] Power analysis completed
-Generate file "/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/impl/pnr/WS2812.power.html" completed
-Generate file "/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/impl/pnr/WS2812.pin.html" completed
-Generate file "/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/impl/pnr/WS2812.rpt.html" completed
-Generate file "/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/impl/pnr/WS2812.rpt.txt" completed
-Generate file "/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/impl/pnr/WS2812.tr.html" completed
-Wed Apr  8 15:39:16 2026
+Generate file "/Users/chris/code/claude_world/WS2812/impl/pnr/WS2812.power.html" completed
+Generate file "/Users/chris/code/claude_world/WS2812/impl/pnr/WS2812.pin.html" completed
+Generate file "/Users/chris/code/claude_world/WS2812/impl/pnr/WS2812.rpt.html" completed
+Generate file "/Users/chris/code/claude_world/WS2812/impl/pnr/WS2812.rpt.txt" completed
+Generate file "/Users/chris/code/claude_world/WS2812/impl/pnr/WS2812.tr.html" completed
+Wed Apr  8 15:52:05 2026
 

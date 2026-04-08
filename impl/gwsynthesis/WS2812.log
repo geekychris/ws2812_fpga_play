@@ -1,10 +1,23 @@
 GowinSynthesis start
 Running parser ...
-Analyzing Verilog file '/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/src/top.v'
-Compiling module 'top'("/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/src/top.v":1)
-WARN  (EX3791) : Expression size 10 truncated to fit in target size 9("/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/src/top.v":52)
-WARN  (EX3791) : Expression size 10 truncated to fit in target size 9("/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/src/top.v":85)
-WARN  (EX3791) : Expression size 10 truncated to fit in target size 9("/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/src/top.v":94)
+Analyzing Verilog file '/Users/chris/code/claude_world/WS2812/src/top.v'
+Compiling module 'top'("/Users/chris/code/claude_world/WS2812/src/top.v":1)
+WARN  (EX3791) : Expression size 21 truncated to fit in target size 20("/Users/chris/code/claude_world/WS2812/src/top.v":61)
+WARN  (EX3791) : Expression size 4 truncated to fit in target size 3("/Users/chris/code/claude_world/WS2812/src/top.v":69)
+WARN  (EX3791) : Expression size 11 truncated to fit in target size 8("/Users/chris/code/claude_world/WS2812/src/top.v":93)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 8("/Users/chris/code/claude_world/WS2812/src/top.v":98)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 8("/Users/chris/code/claude_world/WS2812/src/top.v":103)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 8("/Users/chris/code/claude_world/WS2812/src/top.v":108)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 8("/Users/chris/code/claude_world/WS2812/src/top.v":113)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 8("/Users/chris/code/claude_world/WS2812/src/top.v":118)
+WARN  (EX3791) : Expression size 11 truncated to fit in target size 8("/Users/chris/code/claude_world/WS2812/src/top.v":138)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 9("/Users/chris/code/claude_world/WS2812/src/top.v":160)
+WARN  (EX3791) : Expression size 17 truncated to fit in target size 16("/Users/chris/code/claude_world/WS2812/src/top.v":201)
+WARN  (EX3791) : Expression size 10 truncated to fit in target size 9("/Users/chris/code/claude_world/WS2812/src/top.v":206)
+WARN  (EX3791) : Expression size 5 truncated to fit in target size 4("/Users/chris/code/claude_world/WS2812/src/top.v":208)
+WARN  (EX3791) : Expression size 10 truncated to fit in target size 9("/Users/chris/code/claude_world/WS2812/src/top.v":225)
+WARN  (EX3791) : Expression size 6 truncated to fit in target size 5("/Users/chris/code/claude_world/WS2812/src/top.v":260)
+WARN  (EX3791) : Expression size 6 truncated to fit in target size 5("/Users/chris/code/claude_world/WS2812/src/top.v":268)
 NOTE  (EX0101) : Current top module is "top"
 [5%] Running netlist conversion ...
 Running device independent optimization ...
@@ -22,6 +35,6 @@ Running technical mapping ...
 [75%] Tech-Mapping Phase 2 completed
 [80%] Tech-Mapping Phase 3 completed
 [90%] Tech-Mapping Phase 4 completed
-[95%] Generate netlist file "/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/impl/gwsynthesis/WS2812.vg" completed
-[100%] Generate report file "/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/impl/gwsynthesis/WS2812_syn.rpt.html" completed
+[95%] Generate netlist file "/Users/chris/code/claude_world/WS2812/impl/gwsynthesis/WS2812.vg" completed
+[100%] Generate report file "/Users/chris/code/claude_world/WS2812/impl/gwsynthesis/WS2812_syn.rpt.html" completed
 GowinSynthesis finish

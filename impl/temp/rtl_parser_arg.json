@@ -2,7 +2,7 @@
  "Device" : "GW2A-18C",
  "Files" : [
   {
-   "Path" : "/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/src/top.v",
+   "Path" : "/Users/chris/code/claude_world/WS2812/src/top.v",
    "Type" : "verilog"
   }
  ],
@@ -10,7 +10,7 @@
 
  ],
  "LoopLimit" : 2000,
- "ResultFile" : "/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/impl/temp/rtl_parser.result",
+ "ResultFile" : "/Users/chris/code/claude_world/WS2812/impl/temp/rtl_parser.result",
  "Top" : "",
  "VerilogStd" : "verilog_2001",
  "VhdlStd" : "vhdl_93"

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Module name="top" Register="67" Alu="8" Lut="97" T_Register="67(67)" T_Alu="8(8)" T_Lut="97(97)"/>
+<Module name="top" Register="110" Alu="101" Lut="295" MULT9X9="6" T_Register="110(110)" T_Alu="101(101)" T_Lut="295(295)" T_MULT9X9="6(6)"/>

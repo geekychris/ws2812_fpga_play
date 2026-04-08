@@ -1,9 +1,9 @@
--d /Users/chris/code/fpga/TangPrimer-20K-example/WS2812/impl/gwsynthesis/WS2812.vg
+-d /Users/chris/code/claude_world/WS2812/impl/gwsynthesis/WS2812.vg
 -p GW2A-18C-PBGA256-8
 -pn GW2A-LV18PG256C8/I7
--cst /Users/chris/code/fpga/TangPrimer-20K-example/WS2812/src/top.cst
--cfg /Users/chris/code/fpga/TangPrimer-20K-example/WS2812/impl/pnr/device.cfg
--sdc /Users/chris/code/fpga/TangPrimer-20K-example/WS2812/src/WS2812.sdc
+-cst /Users/chris/code/claude_world/WS2812/src/top.cst
+-cfg /Users/chris/code/claude_world/WS2812/impl/pnr/device.cfg
+-sdc /Users/chris/code/claude_world/WS2812/src/WS2812.sdc
 -bit
 -tr
 -ph
