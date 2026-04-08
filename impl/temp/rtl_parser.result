@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/src/top.v",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "/Users/chris/code/fpga/TangPrimer-20K-example/WS2812/src/top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top"
+ }
+]
