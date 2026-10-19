@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Ws2812 Fpga Play logo" width="180">
+</p>
+
 # WS2812 LED Controller -- Design Document
 
 FPGA-based WS2812 LED strip controller with multiple color effects, targeting the
